@@ -7,8 +7,6 @@ While a lot of this technology isn't usable by citizens and is heavily regulated
 by the FCC, just knowing anything about it is special. I've been interested in
 learning the ins and outs of radio, as well as hearing stories, new and old.
 
-## SDR (Software Defined Radio)
-
 Software Defined Radio is a way to define components that are typically
 hardware, such as filters and amplifiers, as software. It has been around for a
 while, but with the cost of digital electronics needed to run SDR becoming
@@ -17,12 +15,7 @@ with SDR.
 
 I would like contributors for this section.
 
-### Links
-
-* [Gqrx](http://gqrx.dk/)
-* [sdrsharp on .NET](http://sdrsharp.com)
-
-### Hardware
+## Hardware
 * __Recommended starter hardware__ On the low end,
   [RTL-SDR](http://sdr.osmocom.org/trac/wiki/rtl-sdr) is a super-cheap usb
   dongle, around which a thriving community has been founded.
@@ -35,8 +28,11 @@ I would like contributors for this section.
   compatible hardware.
 * Antennas are their own body of options and tradeoffs, about which I know
   nothing.
+  
+### Links
+* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
 
-### Software
+## Software
 Depending on the hardware you're using, it may ship with some demo software to
 play around with. This is great for just getting a chance to see some waves and
 start to get an idea of what's possible. Otherwise, [GNU
@@ -50,6 +46,11 @@ Just visualizing and manually inspecting a signal is a valuable part of learning
 how to work with them. [Baudline](http://www.baudline.com/) is a janky old
 thing, but it's the best there is. Be forewarned that learning the UI won't come
 easily to anyone.
+
+### Links
+
+* [Gqrx](http://gqrx.dk/)
+* [sdrsharp on .NET](http://sdrsharp.com)
 
 ## Amateur Radio (a.k.a Ham Radio)
 
@@ -77,7 +78,6 @@ modern technology we use today.
 * [The International Amateur Radio Union](http://www.iaru.org/)
 * [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
 * [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
-* [Portable SDR](http://hackaday.io/project/1538-PortableSDR)
 
 I would like contributors for this section.
 
