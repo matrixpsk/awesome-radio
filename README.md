@@ -77,49 +77,6 @@ easily to anyone.
 * [SDR GPS receiver](https://github.com/ajinkyagorad/GPSrx)
 * [GPS simulation](https://github.com/ookk2011/GNSS-GPS-SDR)
 
-## Amateur Radio (a.k.a Ham Radio)
-
-The hobby of Amateur Radio has a long and proud tradition. The very first radio
-amateurs were true pioneers of radio technology. Amateurs 'invented' and refined
-much of the early radio technology and were the first to transmit music, radio
-plays, and information to the handful of people who had the new fangled radio
-receivers.
-
-After World War II the hobby of amateur radio flourished. Radio clubs sprang up
-in schools all over the world and kids went home each night to build some new
-contraption, or have a chat with someone over the wireless. These young people
-became the mainstay of the technical professions and developed much of the
-modern technology we use today.
-([WIA](http://www.wia.org.au/licenses/foundation/about/))
-
-[What is Ham Radio?](http://www.arrl.org/what-is-ham-radio)
-
-### Links
-
-* American Radio Relay League - [ARRL](http://www.arrl.org/)
-* The Wireless Institute of Australia [WIA](http://www.wia.org.au/)
-* Radio Society of Great Britain - [RSGB](http://rsgb.org/)
-* Pakistan Amateur Radio Society - [PARS](http://www.pakhams.com/)
-* [The International Amateur Radio Union](http://www.iaru.org/)
-* [Japanese asteroid mission](http://www.arrl.org/news/amateur-radio-transponder-will-accompany-japanese-asteroid-mission-into-deep-space)
-* [Slow-scan Television](https://en.wikipedia.org/wiki/Slow-scan_television)
-
-I would like contributors for this section.
-
-### Amateur Radio License
-
-* In the [US](http://www.arrl.org/getting-licensed) there are three license
-  classes—Technician, General and Extra.
-* [The Foundation Licence](http://www.wia.org.au/licenses/foundation/about/) in
-  Australia.
-* [Foundation Licence]
-  (http://rsgb.org/main/clubs-training/for-students/foundation/) in the UK.
-* In
-  [Pakistan](http://www.pakhams.com/index.php?option=com_content&view=article&id=75&Itemid=92)
-  first you apply for SWL (Short Wave Listener) membership and then you are
-  eligible to [apply for the HAM
-  License](http://www.pta.gov.pk/index.php?option=com_content&view=article&id=466%3Aamateur-wireless-license&catid=138%3Aguidelines&Itemid=349).
-
 ## Public Health and Safety
 
 Police and fire in the United States typically communicate over trunked radio.
