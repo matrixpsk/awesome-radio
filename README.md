@@ -51,6 +51,31 @@ easily to anyone.
 
 * [Gqrx](http://gqrx.dk/)
 * [sdrsharp on .NET](http://sdrsharp.com)
+* [some gr sketches](https://github.com/evan-schaffer/GNURadioSDR)
+* [Shinysdr project](https://github.com/kpreid/shinysdr)
+* [UHF RFID reader for lime](https://github.com/DasSidG/limesdr_rfid)
+* [SDR Educational Tools For Raspberry Pi](https://github.com/myriadrf/ScratchRadio)
+* [Oscilloscope tool](https://github.com/analogdevicesinc/scopy)
+* [audio filter for GR](https://github.com/ntoulasd/DSP)
+* [Interesting encoders/decoders for GR](https://github.com/mberntsen/gnuradio-plugins)
+* [ACARS decoders](https://github.com/mmmaaaxxx/SUPACARS)
+* [Cool phosphor spectrum](http://osmocom.org/projects/sdr/wiki/fosphor)
+* [example for gr-fosphor](https://github.com/g0hww/qtrfiq)
+* [goTenna Mesh](https://github.com/argilo/gr-tenna)
+* [M100 DJI controlling](https://github.com/sunytux/GnuRadio-DJI_channel)
+
+#### Keyless remote
+
+* [Remote keyless, include good paper](https://github.com/tharina/RKE)
+* [Jamming and replay RKE](https://github.com/darvarr/jamming-and-replay)
+
+#### GPS
+
+* [GPS simulation](https://github.com/emlyons2014/gps-sim)
+* [Software correlator for GPS](https://github.com/psas/gps)
+* [http://sdrgps.blogspot.com](https://github.com/hahnpv/sdrgps)
+* [SDR GPS receiver](https://github.com/ajinkyagorad/GPSrx)
+* [GPS simulation](https://github.com/ookk2011/GNSS-GPS-SDR)
 
 ## Amateur Radio (a.k.a Ham Radio)
 
