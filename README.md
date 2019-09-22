@@ -7,6 +7,8 @@ While a lot of this technology isn't usable by citizens and is heavily regulated
 by the FCC, just knowing anything about it is special. I've been interested in
 learning the ins and outs of radio, as well as hearing stories, new and old.
 
+You can find some information at [wiki](/wiki).
+
 Software Defined Radio is a way to define components that are typically
 hardware, such as filters and amplifiers, as software. It has been around for a
 while, but with the cost of digital electronics needed to run SDR becoming
